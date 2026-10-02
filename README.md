@@ -3,6 +3,7 @@
 **Course:** Foundations of Data Science (FDS)  
 **Topic:** Deep Learning approach for Deepfake Image Detection  
 **Reference Paper:** *MesoNet: a Compact Facial Video Forgery Detection Network*, Darius Afchar, Vincent Nozick, Junichi Yamagishi, Isao Echizen (IEEE WIFS 2018)
+collab link: https://colab.research.google.com/drive/1nU_qcDu6HyNli9yf2A5ZuwhULI9Y4MuX?usp=sharing
 
 ## 📌 Project Overview
 This repository contains an end-to-end Data Science and Machine Learning pipeline for detecting AI-generated images (deepfakes). The methodology implemented follows the **MesoNet** architecture, a lightweight mesoscopic Convolutional Neural Network (CNN) specifically designed to detect digital forgeries by extracting micro-texture artifacts rather than relying on high-level semantic features.
